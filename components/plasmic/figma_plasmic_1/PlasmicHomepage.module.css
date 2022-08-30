@@ -1,0 +1,1216 @@
+.masterFrame {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  width: 100%;
+  height: 100%;
+  justify-content: flex-start;
+  align-items: center;
+  background: #ffffff;
+  min-width: 0;
+  min-height: 0;
+  padding: 0px;
+}
+.homepage {
+  background: rgba(126, 70, 70, 1);
+  width: 100%;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  max-width: 2657px;
+  min-width: 0;
+}
+.frame4 {
+  flex-direction: row;
+  background: rgba(241, 232, 227, 1);
+  width: 2161px;
+  height: 139px;
+  display: flex;
+  position: relative;
+  padding-left: 57px;
+  padding-right: 57px;
+  margin-bottom: 31px;
+  flex-shrink: 0;
+}
+.frame4 > :global(.__wab_flex-container) {
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin-left: calc(0px - 116px);
+  width: calc(100% + 116px);
+}
+.frame4 > :global(.__wab_flex-container) > *,
+.frame4 > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.frame4 > :global(.__wab_flex-container) > picture > img,
+.frame4
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-left: 116px;
+}
+.svg___7VDm {
+  position: relative;
+  object-fit: cover;
+  max-width: 100%;
+  width: 48px;
+  height: 48px;
+  flex-shrink: 0;
+}
+.svg__mePXx {
+  position: relative;
+  object-fit: cover;
+  max-width: 100%;
+  width: 48px;
+  height: 48px;
+  flex-shrink: 0;
+}
+.svg__t4XC {
+  position: relative;
+  object-fit: cover;
+  max-width: 100%;
+  width: 48px;
+  height: 48px;
+  flex-shrink: 0;
+}
+.link__g0AI {
+  display: block;
+  font-size: 24px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  letter-spacing: 0.24em;
+  line-height: 100%;
+  color: rgba(0, 0, 0, 0.85);
+  position: relative;
+  width: 90px;
+  height: 37px;
+  flex-shrink: 0;
+}
+.link___62O9S {
+  display: block;
+  font-size: 24px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  letter-spacing: 0.24em;
+  line-height: 100%;
+  color: rgba(0, 0, 0, 0.85);
+  position: relative;
+  width: 96px;
+  height: 37px;
+  flex-shrink: 0;
+}
+.pqxGlobal {
+  position: relative;
+  width: 418px;
+  height: 55px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.text__ozms {
+  display: block;
+  font-size: 48px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  letter-spacing: 0.24em;
+  line-height: 100%;
+  color: rgba(52, 199, 207, 1);
+}
+.link__zLyU {
+  display: block;
+  font-size: 24px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  letter-spacing: 0.24em;
+  line-height: 100%;
+  color: rgba(0, 0, 0, 0.85);
+  position: relative;
+  width: 142px;
+  height: 37px;
+  flex-shrink: 0;
+}
+.link__wsl7A {
+  display: block;
+  font-size: 24px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  letter-spacing: 0.24em;
+  line-height: 100%;
+  color: rgba(0, 0, 0, 0.85);
+  position: relative;
+  width: 133px;
+  height: 37px;
+  flex-shrink: 0;
+}
+.link__xuY {
+  display: block;
+  font-size: 24px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  letter-spacing: 0.24em;
+  line-height: 100%;
+  color: rgba(0, 0, 0, 0.85);
+  position: relative;
+  width: 114px;
+  height: 37px;
+  flex-shrink: 0;
+}
+.frame5 {
+  flex-direction: row;
+  width: auto;
+  height: auto;
+  display: flex;
+  position: relative;
+  margin-top: 0px;
+  margin-bottom: 17px;
+}
+.frame5 > :global(.__wab_flex-container) {
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+  margin-left: calc(0px - 77px);
+  width: calc(100% + 77px);
+}
+.frame5 > :global(.__wab_flex-container) > *,
+.frame5 > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.frame5 > :global(.__wab_flex-container) > picture > img,
+.frame5
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-left: 77px;
+}
+.rectangle2 {
+  background: url("/plasmic/figma_plasmic_1/images/rectangle2.jpeg") 0px -325px / 869px 1305px no-repeat,
+    rgba(195, 195, 195, 1);
+  box-shadow: inset 0px 0px 0px 23px rgba(241, 232, 227, 1);
+  width: 870px;
+  height: 851px;
+  display: block;
+  position: relative;
+  flex-shrink: 0;
+}
+.freeBox__z9LGc {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  min-width: 0;
+  padding: 8px;
+}
+.rectangle3 {
+  background: rgba(241, 232, 227, 1);
+  width: 870px;
+  height: 851px;
+  display: block;
+  flex-shrink: 0;
+}
+.loremIpsumDolorSitAmetConsecteturAdipiscingElitAtTinciduntAdipiscingArcuVenenatisMassaEtiamMaurisSemAcInTempusPharetra {
+  display: block;
+  font-size: 24px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  letter-spacing: 0.035em;
+  line-height: 1.75999;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  width: 430px;
+  height: 218px;
+  left: 202px;
+  top: 294px;
+  margin-right: 0px;
+  text-align: center;
+}
+.text__mlxuh {
+  display: block;
+  font-size: 36px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  letter-spacing: 0.205em;
+  line-height: 100%;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  width: 241px;
+  height: 84px;
+  left: 297px;
+  top: 155px;
+  text-align: center;
+}
+.button {
+  flex-direction: row;
+  background: rgba(52, 199, 207, 1);
+  width: auto;
+  height: auto;
+  display: flex;
+  position: absolute;
+  left: 207px;
+  top: 576px;
+  border-radius: 19px;
+  padding: 15px 110px;
+}
+.button > :global(.__wab_flex-container) {
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin-left: calc(0px - 10px);
+  width: calc(100% + 10px);
+}
+.button > :global(.__wab_flex-container) > *,
+.button > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.button > :global(.__wab_flex-container) > picture > img,
+.button
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-left: 10px;
+}
+.text__zbYPu {
+  display: block;
+  font-size: 36px;
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  letter-spacing: 0.035em;
+  line-height: 1.75999;
+  color: rgba(255, 255, 255, 1);
+  position: relative;
+}
+.group1 {
+  width: 1543px;
+  height: 976px;
+  display: block;
+  position: relative;
+  margin-bottom: 19px;
+  flex-shrink: 0;
+}
+.rectangle5 {
+  background: rgba(241, 232, 227, 1);
+  width: 289px;
+  height: 546px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.frame9 {
+  flex-direction: row;
+  width: auto;
+  height: auto;
+  display: flex;
+  position: absolute;
+  top: 61px;
+  left: 82px;
+}
+.frame9 > :global(.__wab_flex-container) {
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+  margin-left: calc(0px - 69px);
+  width: calc(100% + 69px);
+}
+.frame9 > :global(.__wab_flex-container) > *,
+.frame9 > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.frame9 > :global(.__wab_flex-container) > picture > img,
+.frame9
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-left: 69px;
+}
+.frame6 {
+  flex-direction: column;
+  width: auto;
+  height: auto;
+  display: flex;
+  position: relative;
+}
+.frame6 > :global(.__wab_flex-container) {
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  margin-top: calc(0px - 37px);
+  height: calc(100% + 37px);
+}
+.frame6 > :global(.__wab_flex-container) > *,
+.frame6 > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.frame6 > :global(.__wab_flex-container) > picture > img,
+.frame6
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-top: 37px;
+}
+.rectangle6 {
+  background: url("/plasmic/figma_plasmic_1/images/rectangle7.jpeg") center center / cover no-repeat,
+    url("/plasmic/figma_plasmic_1/images/rectangle7.jpeg") center center / cover no-repeat,
+    url("/plasmic/figma_plasmic_1/images/rectangle6.jpeg") center center / cover no-repeat,
+    rgba(195, 195, 195, 1);
+  width: 411px;
+  height: 598px;
+  display: block;
+  position: relative;
+  flex-shrink: 0;
+}
+.text__juC9I {
+  display: block;
+  font-size: 36px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  letter-spacing: 0.115em;
+  line-height: 100%;
+  color: #ffffff;
+  position: relative;
+  width: 441px;
+  height: 57px;
+  flex-shrink: 0;
+}
+.text__tjn16 {
+  display: block;
+  font-size: 24px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 100%;
+  color: #ffffff;
+  position: relative;
+  width: 411px;
+  height: 113px;
+  flex-shrink: 0;
+}
+.text__hWi3G {
+  display: block;
+  font-size: 24px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  letter-spacing: 0em;
+  line-height: 100%;
+  color: #ffffff;
+  position: relative;
+}
+.frame7 {
+  flex-direction: column;
+  width: auto;
+  height: auto;
+  display: flex;
+  position: relative;
+}
+.frame7 > :global(.__wab_flex-container) {
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  margin-top: calc(0px - 37px);
+  height: calc(100% + 37px);
+}
+.frame7 > :global(.__wab_flex-container) > *,
+.frame7 > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.frame7 > :global(.__wab_flex-container) > picture > img,
+.frame7
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-top: 37px;
+}
+.rectangle7 {
+  background: url("/plasmic/figma_plasmic_1/images/rectangle8.jpeg") center center / cover no-repeat,
+    rgba(195, 195, 195, 1);
+  width: 412px;
+  height: 598px;
+  display: block;
+  position: relative;
+  flex-shrink: 0;
+}
+.text__jmYVo {
+  display: block;
+  font-size: 36px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  letter-spacing: 0.115em;
+  line-height: 100%;
+  color: #ffffff;
+  position: relative;
+  width: 441px;
+  height: 57px;
+  flex-shrink: 0;
+}
+.text__yuEb2 {
+  display: block;
+  font-size: 24px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 100%;
+  color: #ffffff;
+  position: relative;
+  width: 411px;
+  height: 113px;
+  flex-shrink: 0;
+}
+.text__qemPf {
+  display: block;
+  font-size: 24px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  letter-spacing: 0em;
+  line-height: 100%;
+  color: #ffffff;
+  position: relative;
+}
+.frame8 {
+  flex-direction: column;
+  width: auto;
+  height: auto;
+  display: flex;
+  position: relative;
+}
+.frame8 > :global(.__wab_flex-container) {
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  margin-top: calc(0px - 37px);
+  height: calc(100% + 37px);
+}
+.frame8 > :global(.__wab_flex-container) > *,
+.frame8 > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.frame8 > :global(.__wab_flex-container) > picture > img,
+.frame8
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-top: 37px;
+}
+.rectangle8 {
+  background: url("/plasmic/figma_plasmic_1/images/rectangle9.jpeg") center center / cover no-repeat,
+    rgba(195, 195, 195, 1);
+  width: 411px;
+  height: 598px;
+  display: block;
+  position: relative;
+  flex-shrink: 0;
+}
+.text__sokdh {
+  display: block;
+  font-size: 36px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  letter-spacing: 0.115em;
+  line-height: 100%;
+  color: #ffffff;
+  position: relative;
+  width: 441px;
+  height: 57px;
+  flex-shrink: 0;
+}
+.text__hlGlh {
+  display: block;
+  font-size: 24px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 100%;
+  color: #ffffff;
+  position: relative;
+  width: 411px;
+  height: 113px;
+  flex-shrink: 0;
+}
+.text___3MiU {
+  display: block;
+  font-size: 24px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  letter-spacing: 0em;
+  line-height: 100%;
+  color: #ffffff;
+  position: relative;
+}
+.group2 {
+  width: 1940px;
+  height: 1003px;
+  display: block;
+  position: relative;
+  margin-top: 17px;
+  flex-shrink: 0;
+}
+.frame23 {
+  flex-direction: column;
+  width: auto;
+  height: auto;
+  display: flex;
+  position: absolute;
+  top: 133px;
+  left: 0px;
+  padding: 10px;
+}
+.frame23 > :global(.__wab_flex-container) {
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  margin-top: calc(0px - 10px);
+  height: calc(100% + 10px);
+}
+.frame23 > :global(.__wab_flex-container) > *,
+.frame23 > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.frame23 > :global(.__wab_flex-container) > picture > img,
+.frame23
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-top: 10px;
+}
+.rectangle9 {
+  background: rgba(241, 232, 227, 1);
+  width: 1920px;
+  height: 701px;
+  display: block;
+  position: relative;
+  flex-shrink: 0;
+}
+.frame21 {
+  flex-direction: column;
+  width: auto;
+  height: auto;
+  display: flex;
+  position: absolute;
+  top: 0px;
+  left: 425px;
+  padding: 10px;
+}
+.frame21 > :global(.__wab_flex-container) {
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  margin-top: calc(0px - 10px);
+  height: calc(100% + 10px);
+}
+.frame21 > :global(.__wab_flex-container) > *,
+.frame21 > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.frame21 > :global(.__wab_flex-container) > picture > img,
+.frame21
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-top: 10px;
+}
+.rectangle14 {
+  background: url("/plasmic/figma_plasmic_1/images/rectangle14.jpeg") center center / cover no-repeat,
+    rgba(195, 195, 195, 1);
+  width: 841px;
+  height: 834px;
+  display: block;
+  position: relative;
+  flex-shrink: 0;
+}
+.frame20 {
+  flex-direction: column;
+  width: auto;
+  height: auto;
+  display: flex;
+  position: absolute;
+  top: 225px;
+  left: 182px;
+  padding: 10px;
+}
+.frame20 > :global(.__wab_flex-container) {
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  margin-top: calc(0px - 10px);
+  height: calc(100% + 10px);
+}
+.frame20 > :global(.__wab_flex-container) > *,
+.frame20 > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.frame20 > :global(.__wab_flex-container) > picture > img,
+.frame20
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-top: 10px;
+}
+.rectangle10 {
+  background: rgba(255, 255, 255, 1);
+  width: 608px;
+  height: 518px;
+  display: block;
+  position: relative;
+  flex-shrink: 0;
+}
+.frame13 {
+  flex-direction: column;
+  width: auto;
+  height: auto;
+  display: flex;
+  position: absolute;
+  top: 340px;
+  left: 258px;
+}
+.frame13 > :global(.__wab_flex-container) {
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: calc(0px - 22px);
+  height: calc(100% + 22px);
+}
+.frame13 > :global(.__wab_flex-container) > *,
+.frame13 > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.frame13 > :global(.__wab_flex-container) > picture > img,
+.frame13
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-top: 22px;
+}
+.frame17 {
+  flex-direction: row;
+  width: auto;
+  height: auto;
+  display: flex;
+  position: relative;
+  padding: 10px;
+}
+.frame17 > :global(.__wab_flex-container) {
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+  margin-left: calc(0px - 10px);
+  width: calc(100% + 10px);
+}
+.frame17 > :global(.__wab_flex-container) > *,
+.frame17 > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.frame17 > :global(.__wab_flex-container) > picture > img,
+.frame17
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-left: 10px;
+}
+.text__aAxKb {
+  display: block;
+  font-size: 36px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  letter-spacing: 0.115em;
+  line-height: 100%;
+  color: rgba(0, 0, 0, 1);
+  position: relative;
+}
+.frame18 {
+  flex-direction: row;
+  width: auto;
+  height: auto;
+  display: flex;
+  position: relative;
+  padding: 10px;
+}
+.frame18 > :global(.__wab_flex-container) {
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+  margin-left: calc(0px - 10px);
+  width: calc(100% + 10px);
+}
+.frame18 > :global(.__wab_flex-container) > *,
+.frame18 > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.frame18 > :global(.__wab_flex-container) > picture > img,
+.frame18
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-left: 10px;
+}
+.text__vmToA {
+  display: block;
+  font-size: 24px;
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 100%;
+  color: rgba(0, 0, 0, 0.72);
+  position: relative;
+  width: 411px;
+  flex-shrink: 0;
+}
+.frame19 {
+  flex-direction: column;
+  width: auto;
+  height: auto;
+  display: flex;
+  position: relative;
+  padding: 10px;
+}
+.frame19 > :global(.__wab_flex-container) {
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  margin-top: calc(0px - 10px);
+  height: calc(100% + 10px);
+}
+.frame19 > :global(.__wab_flex-container) > *,
+.frame19 > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.frame19 > :global(.__wab_flex-container) > picture > img,
+.frame19
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-top: 10px;
+}
+.button3 {
+  flex-direction: row;
+  background: rgba(52, 199, 207, 1);
+  width: auto;
+  height: auto;
+  display: flex;
+  position: relative;
+  border-radius: 19px;
+  padding: 15px 110px;
+}
+.button3 > :global(.__wab_flex-container) {
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin-left: calc(0px - 10px);
+  width: calc(100% + 10px);
+}
+.button3 > :global(.__wab_flex-container) > *,
+.button3 > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.button3 > :global(.__wab_flex-container) > picture > img,
+.button3
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-left: 10px;
+}
+.text__mUPu3 {
+  display: block;
+  font-size: 36px;
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  letter-spacing: 0.035em;
+  line-height: 1.75999;
+  color: rgba(255, 255, 255, 1);
+  position: relative;
+}
+.rectangle12 {
+  background: rgba(255, 254, 254, 1);
+  width: 626px;
+  height: 822px;
+  display: block;
+  position: absolute;
+  top: 181px;
+  left: 987px;
+}
+.frame22 {
+  flex-direction: row;
+  width: auto;
+  height: auto;
+  display: flex;
+  position: absolute;
+  top: 202px;
+  left: 1008px;
+  padding: 10px;
+}
+.frame22 > :global(.__wab_flex-container) {
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+  margin-left: calc(0px - 10px);
+  width: calc(100% + 10px);
+}
+.frame22 > :global(.__wab_flex-container) > *,
+.frame22 > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.frame22 > :global(.__wab_flex-container) > picture > img,
+.frame22
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-left: 10px;
+}
+.rectangle13 {
+  background: url("/plasmic/figma_plasmic_1/images/rectangle13.jpeg") center center / cover no-repeat,
+    rgba(195, 195, 195, 1);
+  width: 568px;
+  height: 760px;
+  display: block;
+  position: relative;
+  flex-shrink: 0;
+}
+.frame14 {
+  flex-direction: column;
+  width: auto;
+  height: auto;
+  display: flex;
+  position: relative;
+  margin-top: 38px;
+  padding: 10px;
+}
+.frame14 > :global(.__wab_flex-container) {
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  margin-top: calc(0px - 10px);
+  height: calc(100% + 10px);
+}
+.frame14 > :global(.__wab_flex-container) > *,
+.frame14 > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.frame14 > :global(.__wab_flex-container) > picture > img,
+.frame14
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-top: 10px;
+}
+.rectangle15 {
+  background: rgba(241, 232, 227, 1);
+  width: 1920px;
+  height: 322px;
+  display: block;
+  position: relative;
+  margin-bottom: 19px;
+  flex-shrink: 0;
+}
+.frame2 {
+  flex-direction: row;
+  width: auto;
+  height: auto;
+  display: flex;
+  position: absolute;
+  left: 70px;
+  top: 79px;
+}
+.frame2 > :global(.__wab_flex-container) {
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  margin-left: calc(0px - 49px);
+  width: calc(100% + 49px);
+}
+.frame2 > :global(.__wab_flex-container) > *,
+.frame2 > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.frame2 > :global(.__wab_flex-container) > picture > img,
+.frame2
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-left: 49px;
+}
+.freeBox___5Ujxl {
+  display: block;
+  position: relative;
+  width: 59px;
+  height: 134px;
+  flex-shrink: 0;
+}
+.svg__a4H3X {
+  position: absolute;
+  object-fit: cover;
+  max-width: 100%;
+  color: #000;
+  transform: scale(1, -1) rotate(-180deg);
+  width: 64px;
+  height: 136px;
+  display: block;
+  transform-origin: top left;
+  left: 59px;
+  top: 0px;
+}
+.text__tqUzf {
+  display: block;
+  font-size: 24px;
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  letter-spacing: 0.035em;
+  line-height: 1.75999;
+  color: rgba(0, 0, 0, 1);
+  position: relative;
+  width: 1508px;
+  height: 173px;
+  flex-shrink: 0;
+}
+.svg__yS45P {
+  position: relative;
+  object-fit: cover;
+  max-width: 100%;
+  color: #000;
+  width: 64px;
+  height: 136px;
+  display: block;
+  flex-shrink: 0;
+}
+.text__zbkg8 {
+  display: block;
+  font-size: 36px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  letter-spacing: 0.115em;
+  line-height: 100%;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  width: 667px;
+  height: 57px;
+  left: 590px;
+  top: 32px;
+}
+.freeBox__qnTdE {
+  display: flex;
+  position: absolute;
+  left: 666px;
+  top: 252.89990234375px;
+  width: 762px;
+}
+.slotTargetFollowPqxGlobal {
+  font-family: "Poppins", sans-serif;
+  font-size: 36px;
+  font-weight: 600;
+  line-height: 100%;
+  letter-spacing: 0.115em;
+}
+.link__jqpHt {
+  position: relative;
+  display: flex;
+  margin: 0px 19px 0px 0px;
+}
+.link__tEpEe {
+  display: flex;
+}
+.svg__tJwem {
+  object-fit: cover;
+  max-width: 100%;
+  width: 1em;
+  flex-shrink: 0;
+  height: 1em;
+}
+.link__gjXup {
+  position: relative;
+  margin-right: 20px;
+  display: flex;
+}
+.svg__fdw9Y {
+  object-fit: cover;
+  max-width: 100%;
+  width: 1em;
+  flex-shrink: 0;
+  height: 1em;
+}
+.link___00CKx {
+  position: relative;
+  display: flex;
+}
+.svg__iSufD {
+  object-fit: cover;
+  max-width: 100%;
+  width: 1em;
+  flex-shrink: 0;
+  height: 1em;
+}
+.frame15 {
+  flex-direction: column;
+  width: auto;
+  height: auto;
+  display: flex;
+  position: relative;
+  padding: 10px;
+}
+.frame15 > :global(.__wab_flex-container) {
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  margin-top: calc(0px - 10px);
+  height: calc(100% + 10px);
+}
+.frame15 > :global(.__wab_flex-container) > *,
+.frame15 > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.frame15 > :global(.__wab_flex-container) > picture > img,
+.frame15
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-top: 10px;
+}
+.frame3 {
+  flex-direction: row;
+  width: auto;
+  height: auto;
+  display: flex;
+  position: relative;
+  margin-bottom: 16px;
+}
+.frame3 > :global(.__wab_flex-container) {
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+  margin-left: calc(0px - 70px);
+  width: calc(100% + 70px);
+}
+.frame3 > :global(.__wab_flex-container) > *,
+.frame3 > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.frame3 > :global(.__wab_flex-container) > picture > img,
+.frame3
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-left: 70px;
+}
+.rectangle4 {
+  background: url("/plasmic/figma_plasmic_1/images/rectangle2.jpeg") 0px -79px / 270px 319px no-repeat,
+    rgba(195, 195, 195, 1);
+  width: 270px;
+  height: 208px;
+  display: block;
+  position: relative;
+  flex-shrink: 0;
+}
+.rectangle17 {
+  background: url("/plasmic/figma_plasmic_1/images/rectangle7.jpeg") center center / cover no-repeat,
+    url("/plasmic/figma_plasmic_1/images/rectangle17.jpeg") -3px -20px / 270px 405px no-repeat,
+    rgba(195, 195, 195, 1);
+  width: 270px;
+  height: 208px;
+  display: block;
+  position: relative;
+  flex-shrink: 0;
+}
+.rectangle18 {
+  background: url("/plasmic/figma_plasmic_1/images/rectangle18.jpeg") 0px -39px / 270px 405px no-repeat,
+    rgba(195, 195, 195, 1);
+  width: 270px;
+  height: 208px;
+  display: block;
+  position: relative;
+  flex-shrink: 0;
+}
+.rectangle19 {
+  background: url("/plasmic/figma_plasmic_1/images/rectangle19.jpeg") center center / cover no-repeat,
+    rgba(195, 195, 195, 1);
+  width: 270px;
+  height: 208px;
+  display: block;
+  position: relative;
+  flex-shrink: 0;
+}
+.rectangle20 {
+  background: url("/plasmic/figma_plasmic_1/images/rectangle20.jpeg") -21px 0px / 312px 208px no-repeat,
+    rgba(195, 195, 195, 1);
+  width: 270px;
+  height: 208px;
+  display: block;
+  position: relative;
+  flex-shrink: 0;
+}
+.frame11 {
+  flex-direction: row;
+  width: 1663px;
+  height: auto;
+  display: flex;
+  position: relative;
+  margin-bottom: 9px;
+}
+.frame11 > :global(.__wab_flex-container) {
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin-left: calc(0px - 92px);
+  width: calc(100% + 92px);
+}
+.frame11 > :global(.__wab_flex-container) > *,
+.frame11 > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.frame11 > :global(.__wab_flex-container) > picture > img,
+.frame11
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-left: 92px;
+}
+.link__zk20 {
+  display: block;
+  font-size: 24px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  letter-spacing: 0.24em;
+  line-height: 100%;
+  color: #ffffff;
+  position: relative;
+  width: 90px;
+  height: 37px;
+  flex-shrink: 0;
+}
+.link___8Ih96 {
+  display: block;
+  font-size: 24px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  letter-spacing: 0.24em;
+  line-height: 100%;
+  color: #ffffff;
+  position: relative;
+  width: 96px;
+  height: 37px;
+  flex-shrink: 0;
+}
+.link___7Tdj5 {
+  display: block;
+  font-size: 24px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  letter-spacing: 0.24em;
+  line-height: 100%;
+  color: #ffffff;
+  position: relative;
+  width: 142px;
+  height: 37px;
+  flex-shrink: 0;
+}
+.link__t5Azs {
+  display: block;
+  font-size: 24px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  letter-spacing: 0.24em;
+  line-height: 100%;
+  color: #ffffff;
+  position: relative;
+  width: 133px;
+  height: 37px;
+  flex-shrink: 0;
+}
+.text__vttbm {
+  display: block;
+  font-size: 24px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  letter-spacing: 0.24em;
+  line-height: 100%;
+  color: #ffffff;
+  position: relative;
+  width: 598px;
+  height: 36px;
+  flex-shrink: 0;
+}
